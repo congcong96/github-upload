@@ -1,0 +1,1 @@
+more than 9s between stimuli if multiple stimuli used in one recording file
